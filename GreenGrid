@@ -1,0 +1,13 @@
+GreenGrid-ISO27001-ISMS-GRC-Project/
+│
+├── README.md
+├── Risk-Register/
+│   └── Information-Security-Risks
+├── Statement-of-Applicability/
+│   └── ISO27001-SoA-93-Controls
+├── Risk-Treatment/
+│   └── Risk-Control-Mapping
+├── Compliance/
+│   └── Audit-Readiness
+└── Evidence/
+    └── Project-Screenshots
